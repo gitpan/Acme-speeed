@@ -1,0 +1,23 @@
+Acme-speeed version 1
+=====================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires no other modules and libraries. Not even Acme.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2006 by Mirko Westermeier
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+

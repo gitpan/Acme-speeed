@@ -1,0 +1,8 @@
+Revision history for Perl extension Acme::speeed.
+
+0.1 Fri Jul 21 15:14:25 2006
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n Acme::speeed
+
+1.0 Fri Jul 21 17:42:23 CEST 2006
+    - now with unimport (no Acme::speeed)
